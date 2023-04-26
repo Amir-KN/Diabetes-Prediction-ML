@@ -1,5 +1,5 @@
-# Diabetes-Prediction-ML-
-In this project we use Supervised Learning to predict that a person has diabetes diseases or not.
+# Diabetes-Prediction
+In this project we use Supervised Learning to predict that a person has diabetes diseases or not. In fact this project about ML.
 We do :
   - Scrutiny Data
   - Preprocess Data
